@@ -3,7 +3,7 @@ import Loading from '../components/Loading'
 
 const Home = () => {
   return (
-    <div>
+    <div className='home'>
       <h1>Home page</h1>
       <Loading />
     </div>
